@@ -2,7 +2,7 @@
 UDACITY - Introduction to Artificial Intelligence - Stanford CS271
 https://classroom.udacity.com/courses/cs271
 
-Artificial Intelligence 
+## Artificial Intelligence 
 
  
 
